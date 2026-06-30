@@ -1,0 +1,24 @@
+{
+    "document_original": "tmpli0666jz",
+    "document_processed": "tmpli0666jz_with_placeholders",
+    "mapping": {
+        "img_1": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_1.jpeg",
+        "img_2": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_2.jpeg",
+        "img_3": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_3.jpeg",
+        "img_4": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_4.jpeg",
+        "img_5": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_5.jpeg",
+        "img_6": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_6.jpeg",
+        "img_7": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_7.jpeg",
+        "img_8": "rag_processed_data\\刀补填写\\images\\tmpli0666jz\\img_8.jpeg"
+    },
+    "sequence": [
+        "img_1",
+        "img_2",
+        "img_3",
+        "img_4",
+        "img_5",
+        "img_6",
+        "img_7",
+        "img_8"
+    ]
+}
